@@ -8,6 +8,13 @@
     </div>
 @endcan
 <div class="row">
+    <div class="col-md-3 add_membre">
+        <button class="btn btn-block btn-primary" type="button">Primary</button>
+    </div>
+</div>
+
+<div class="row">
+  
               <div class="col-sm-6 col-lg-3">
                 <div class="card text-white bg-primary">
                   <div class="card-body pb-0">
@@ -89,7 +96,7 @@
                 </div>
               </div>
               <!-- /.col-->
-            </div>
+</div>
 <div class="row">
               <div class="col-sm-6 col-lg-3">
                 <div class="brand-card">
